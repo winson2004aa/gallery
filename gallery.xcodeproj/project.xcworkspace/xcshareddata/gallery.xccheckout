@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>85477D73-FEEE-40F8-9F2F-E91A43C19A58</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CE85C35B060C2A389497703DE092F17E1CCC9A38</key>
+		<string>https://github.com/nkanaev/nvgallery.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CE85C35B060C2A389497703DE092F17E1CCC9A38</key>
+		<string>nvgallery/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/nkanaev/nvgallery.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CE85C35B060C2A389497703DE092F17E1CCC9A38</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CE85C35B060C2A389497703DE092F17E1CCC9A38</string>
+			<key>IDESourceControlWCCName</key>
+			<string>nvgallery</string>
+		</dict>
+	</array>
+</dict>
+</plist>
